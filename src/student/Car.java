@@ -10,6 +10,7 @@ public class Car {
 	public void test2() {
 		System.out.println("test");
 		pay.payment();
+		//test
 		
 		
 	}

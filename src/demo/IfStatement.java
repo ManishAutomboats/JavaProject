@@ -12,6 +12,7 @@ public class IfStatement {
 		  if(s.equals("Java")) {
 			  
 			  System.out.println("Java printed");
+			  //test
 		  } 
 		  }
 
