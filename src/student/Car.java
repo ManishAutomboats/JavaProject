@@ -11,7 +11,7 @@ public class Car {
 		System.out.println("test");
 		pay.payment();
 		
-		
+		//Demo code added
 	}
 	
 	
