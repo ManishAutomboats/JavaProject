@@ -16,6 +16,8 @@ public class PaymentPage {
 		System.out.println("Payment");
 		System.out.println("Payment");
 		System.out.println("Payment");
+		
+		System.out.println("Payment");
 	}
 
 }
